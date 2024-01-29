@@ -61,9 +61,7 @@ public class Application1 {
         System.out.println(bool1==bool2);
         System.out.println(bool1!=bool2);
 
-        /*목차4. 문자열값 비교*/
-        String str1= "Java";
-        String str2=""
+
 
 
 
